@@ -13,7 +13,7 @@ provider "genesyscloud" {
 resource "genesyscloud_user" "sf_johnsmith" {
   email           = "john.smith@simplefinancial.com"
   name            = "John Smith"
-  password        = "b@Zinga1972"
+  password        = "b@Zinga19721"
   state           = "active"
   department      = "IRA"
   title           = "Agent"
